@@ -2,6 +2,7 @@
 This is an deep learning web application built using django that classifies ImageNet classes with ResNet50.
 
 Frontend - Django
+
 Backend - Deep learning
 
 Requirements:
